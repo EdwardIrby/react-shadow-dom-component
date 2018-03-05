@@ -1,0 +1,6 @@
+# React Shadow DOM Component
+### An experiment to see if a shadowRoot can be used as a viable css-in-js solution with react.
+
+## Setup
+1. `npm install` or `yarn`
+2. `npm run start` or `yarn start`

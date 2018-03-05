@@ -1,0 +1,27 @@
+#---- Build files --------------------------------------------------------------
+.cache/
+dist/
+
+#---- Module files -------------------------------------------------------------
+node_modules
+npm-debug.log
+lerna-debug.log
+yarn-error.log
+.jestCache
+
+#---- OS generated files  ------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+#---- IDE generated files  -----------------------------------------------------
+.idea/
+.vscode/
+
+#---- Local Configuration files ------------------------------------------------
+config.js.local
+jsconfig.json

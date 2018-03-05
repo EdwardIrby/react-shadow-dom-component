@@ -1,0 +1,22 @@
+{
+  "name": "ShadoWDom",
+  "version": "0.0.1",
+  "description": "React ShadoWDom component for encapsulated styles",
+  "main": "index.js",
+  "author": "dx.works <contact@dxworks.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.6.2",
+    "prop-types": "^15.6.0"
+  },
+  "scripts": {
+    "start": "node_modules/.bin/parcel index.html --port 3000"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
